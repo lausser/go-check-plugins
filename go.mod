@@ -7,9 +7,10 @@ require (
 	github.com/aws/aws-sdk-go v1.40.59
 	github.com/beevik/ntp v0.3.0
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
+	github.com/docker/docker v20.10.8+incompatible // indirect
 	github.com/elazarl/goproxy v0.0.0-20191011121108-aa519ddbe484
 	github.com/elazarl/goproxy/ext v0.0.0-20191011121108-aa519ddbe484
-	github.com/fsouza/go-dockerclient v1.7.4
+	github.com/fsouza/go-dockerclient v1.8.0
 	github.com/go-ldap/ldap/v3 v3.4.1
 	github.com/go-ole/go-ole v1.2.5
 	github.com/go-sql-driver/mysql v1.6.0
@@ -26,7 +27,7 @@ require (
 	github.com/shirou/gopsutil/v3 v3.21.9
 	github.com/stretchr/testify v1.7.0
 	github.com/tatsushid/go-fastping v0.0.0-20160109021039-d7bb493dee3e
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/sys v0.0.0-20210816074244-15123e1e1f71
+	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
 	golang.org/x/text v0.3.7
 )
