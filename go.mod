@@ -18,7 +18,7 @@ require (
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/lib/pq v1.10.3
 	github.com/mackerelio/checkers v0.0.2
-	github.com/mackerelio/go-osstat v0.2.0
+	github.com/mackerelio/go-osstat v0.2.3
 	github.com/mackerelio/golib v1.2.1
 	github.com/mattn/go-encoding v0.0.2
 	github.com/mattn/go-zglob v0.0.3
@@ -27,6 +27,6 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tatsushid/go-fastping v0.0.0-20160109021039-d7bb493dee3e
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/sys v0.0.0-20210816074244-15123e1e1f71
+	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8
 	golang.org/x/text v0.3.7
 )
